@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : "Davide Marco Difino"
 title_separator          : "-"
 name                     : &name "Davide Difino"
@@ -81,10 +81,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
+  working:
+    title: 'Working Papers'
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'aaa Articles'    
   conferences:
     title: 'Conference Papers'
 
