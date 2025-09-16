@@ -24,7 +24,7 @@ redirect_from:
         <summary>Abstract</summary>
           Economic progress brings two key patterns: population aging and a declining food share in total expenditures. Using data from 20 countries, this work shows that as household members age, food's share of spending rises. While the magnitude differs between rich and developing countries when using standard household-level variables, this gap vanishes when accounting for household composition. A quantitative model that considers household structure documents that demographic transition raises aggregate food expenditure share, slowing structural change. Due to the observed co-movement of demographic transition, structural change, and income growth, not accounting for demography leads to an underestimation of the income effect.
       </details>
-    - Presented at: STEG workshop, EAYE Annual conference, SD Doctoral conference 
+    - Presented at: STEG workshop, EAYE Annual conference, RGS 18th Doctoral Conference
 
 
 ## Work in Progress
