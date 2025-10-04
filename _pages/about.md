@@ -10,11 +10,11 @@ Welcome to my personal website!
 
 - I am a Ph.D. candidate in Economics at [GSEFM](https://www.gsefm.eu/about-us.html) and [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en).
 
-- I am a macroeconomist interested in how long-run forces—such as demographic change and technological progress—shape the structure of the economy and affect welfare. 
+- I am a macroeconomist interested in how long-run forces—such as demographic change and technological progress—shape the structure of the economy. 
 
 - My current research focuses on the role of demand-side mechanisms in explaining cross-country differences, using both empirical analysis and quantitative models.
 
-## *Job Market Paper:* **Technical and Structural Change**
+## *Job Market Paper:* **Technical and Structural Change**   [[slides](http://dmdifino.github.io/files/technical_change_3_10_25.pdf)]
 
 **Abstract**: *As countries develop, the service share of aggregate intermediate inputs rises. This paper studies the role of intermediate-biased technical change in driving these phenomena and broader structural transformation.* 
 

@@ -11,6 +11,7 @@ redirect_from:
 
 - **Technical and Structural Change** \\
   [Draft available soon]
+  [[slides](http://dmdifino.github.io/files/technical_change_3_10_25.pdf)]
     - <details>
         <summary>Abstract</summary>
         As countries develop, the service share of aggregate intermediate inputs rises. This paper studies the role of intermediate-biased technical change in driving these phenomena and broader structural transformation. Using cross-country input-output data from 1965 to 2014, this work documents that the rising service share of intermediate inputs reflects broad within-sector increases in service intensity rather than reallocation across industries. Standard drivers such as relative price changes explain part, but not all, of this shift. To interpret these facts, this work proposes a parsimonious two-sector model with input-biased technical change and a full input-output structure. A novel estimation strategy using U.S. data indicates that technical change has been service-biased in the services-producing sector and neutral in the goods-producing sector. Quantitatively, service-biased technical change accounts for half of the rise in the service share of intermediates and employment, one-quarter of the increase in the service expenditure share, and a 25 percent decline in aggregate GDP. These findings establish input-biased technical change as a central force shaping structural transformation and aggregate growth.
@@ -31,5 +32,5 @@ redirect_from:
 - **On Estimating the Cost of Life Index Using Panel Data** \\
   [Draft available soon] 
 
-- **Reverse Structural Change** (with Georg Duernecker)  \\
+- **Reverse Structural Change** (with [Georg Duernecker](https://sites.google.com/site/georgduernecker/))  \\
   [status: preliminary analysis completed] 
