@@ -14,12 +14,11 @@ Welcome to my personal website!
 
 - My current research focuses on the role of demand-side mechanisms in explaining cross-country differences, using both empirical analysis and quantitative models.
 
-## *Job Market Paper:* **Technical and Structural Change**   [[slides](http://dmdifino.github.io/files/technical_change_3_10_25.pdf)]
+### **Intermediates-Specific Technical Change, Structural Transformation, and Growth**   
 
-**Abstract**: *As countries develop, the service share of aggregate intermediate inputs rises. This paper studies the role of intermediate-biased technical change in driving these phenomena and broader structural transformation.* 
+
+[Job Market Paper][[Working paper](http://dmdifino.github.io/files/JMP_latest.pdf)] [[slides](http://dmdifino.github.io/files/JMP_latest_slides.pdf)]
+
+**Abstract**: *As economies develop, they increasingly rely on services intermediates in production. While recent research highlights the importance of these shifts for aggregate dynamics, the mechanisms underlying them remain understudied. This paper quantifies the role of biased, intermediates-specific technical change as a key mechanism behind the rise of services intermediates -- and its implications for broader structural transformation and aggregate growth -- using a two-sector model with intermediates-specific technical change and a full input-output structure. Calibrated with U.S. data, the model indicates that input-specific technical change has been driving the majority of the rise in services intermediates in the services-producing sector, but not in the goods-producing sector. This heterogeneity accounts for both the stagnation of value-added productivity in services and several aggregate trends: almost half of the increase in the services' share of intermediates and employment, roughly one-quarter of the rise in final expenditure shares, and approximately a 25% reduction in aggregate real GDP growth relative to an unbiased counterfactual. These findings establish biased intermediates-specific technical change as a central driver of the evolving production structure, the aggregate productivity slowdown, and structural transformation.*
 
 <img src="images/JMP1.svg" alt="drawing" width="350"><img src="images/JMP2.svg" alt="drawing" width="350">
-
-*Using cross-country input-output data from 1965 to 2014, this work documents that the rising service share of intermediate inputs reflects broad within-sector increases in service intensity rather than reallocation across industries. Standard drivers such as relative price changes explain part, but not all, of this shift. To interpret these facts, this work proposes a parsimonious two-sector model with input-biased technical change and a full input-output structure.* 
-
-*A novel estimation strategy using U.S. data indicates that technical change has been service-biased in the services-producing sector and neutral in the goods-producing sector. Quantitatively, service-biased technical change accounts for half of the rise in the service share of intermediates and employment, one-quarter of the increase in the service expenditure share, and a 25 percent decline in aggregate GDP. These findings establish input-biased technical change as a central force shaping structural transformation and aggregate growth.*
