@@ -9,7 +9,7 @@ redirect_from:
 ## Working Papers
 
 
-- **Intermediates-Specific Technical Change, Structural Transformation, and Growth**\\ 
+- **Intermediates-specific Technological Progress, Structural Change, and Growth**\\ 
   [Job Market Paper]
   [[Working paper](http://dmdifino.github.io/files/JMP_latest.pdf)]
   [[slides](http://dmdifino.github.io/files/JMP_latest_slides.pdf)]
@@ -17,7 +17,7 @@ redirect_from:
         <summary>Abstract</summary>
         <div style="text-align: justify">
           <i> 
-          As economies develop, they increasingly rely on services intermediates in production. While recent research highlights the importance of these shifts for aggregate dynamics, the mechanisms underlying them remain understudied. This paper quantifies the role of biased, intermediates-specific technical change as a key mechanism behind the rise of services intermediates -- and its implications for broader structural transformation and aggregate growth -- using a two-sector model with intermediates-specific technical change and a full input-output structure. Calibrated with U.S. data, the model indicates that input-specific technical change has been driving the majority of the rise in services intermediates in the services-producing sector, but not in the goods-producing sector. This heterogeneity accounts for both the stagnation of value-added productivity in services and several aggregate trends: almost half of the increase in the services' share of intermediates and employment, roughly one-fifth of the rise in final expenditure shares, and approximately a 25% reduction in aggregate real GDP growth relative to an unbiased counterfactual. These findings establish biased intermediates-specific technical change as a central driver of the evolving production structure, the aggregate productivity slowdown, and structural transformation.
+          As economies develop, they increasingly rely on services intermediates in production. While recent research highlights the importance of these shifts for aggregate dynamics, the mechanisms underlying them remain understudied. This paper quantifies the role of biased, intermediates-specific technological change as a key mechanism behind the rise of services intermediates - and its implications for broader structural transformation and aggregate growth - using a two-sector model with intermediates-specific technological change and a full input-output structure. Calibrated with U.S. data, the model indicates that intermediates-specific technological change has been driving the majority of the rise in services intermediates in the services-producing sector, but not in the goods-producing sector. This heterogeneity accounts for both the stagnation of value-added productivity in services and several aggregate trends: almost half of the increase in the services' share of intermediates and employment, roughly one-fifth of the rise in final expenditure shares, and approximately a 25% reduction in aggregate real GDP growth relative to an unbiased counterfactual. These findings establish biased intermediates-specific technological change as a central driver of the evolving production structure, the aggregate productivity slowdown, and structural change
           </i>
         </div>
       </details>
@@ -38,7 +38,7 @@ redirect_from:
 
 
 ## Work in Progress
-- **On Estimating the Cost of Life Index Using Panel Data** \\
+- **On Estimating the Cost-of-Living Index Using Panel Data** \\
   [Draft available soon] 
 
 - **Reverse Structural Change** (with [Georg Duernecker](https://sites.google.com/site/georgduernecker/))  \\
