@@ -8,7 +8,6 @@ redirect_from:
 
 ## Working Papers
 
-
 - **Intermediates-specific Technological Progress, Structural Change, and Growth** \\ 
   [Job Market Paper]
   [[Working paper](http://dmdifino.github.io/files/JMP_latest.pdf)]
@@ -39,8 +38,17 @@ redirect_from:
 
 
 ## Work in Progress
-- **On Estimating the Cost-of-Living Index Using Panel Data** \\
+- **Comparing Standard of Living: A Nonparametric Approach to the Cost-of-Living Index** \\
+  [[Extended Abstract](http://dmdifino.github.io/files/coli_abstract.pdf)]
   [Draft available soon] 
+  - <details>
+        <summary>Abstract</summary>
+        <div style="text-align: justify">
+          <i> 
+          Measuring the material standard of living in a comparable way remains a central challenge in economics. It is well known that conventional price adjustments impose restrictive assumptions on preferences, ignoring changes over time, income, age, and other socio-demographic characteristics that shape them. This project develops a nonparametric algorithm to approximate the ideal Cost-of-Living Index, expressing compensated expenditure shares as functions of observed shares and (compensated) price elasticities, which are estimable from panel data. The method accommodates arbitrary non-homothetic and state-variable-driven preferences. Applying this approach to multi-country household data enables tracing the evolution of the standard of living across groups and over time.
+          </i>
+        </div>
+      </details>
 
 - **Reverse Structural Change** (with [Georg Duernecker](https://sites.google.com/site/georgduernecker/))  \\
   [status: preliminary analysis completed] 
