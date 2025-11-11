@@ -9,7 +9,7 @@ redirect_from:
 ## Working Papers
 
 
-- **Intermediates-specific Technological Progress, Structural Change, and Growth**\\ 
+- **Intermediates-specific Technological Progress, Structural Change, and Growth** \\ 
   [Job Market Paper]
   [[Working paper](http://dmdifino.github.io/files/JMP_latest.pdf)]
   [[slides](http://dmdifino.github.io/files/JMP_latest_slides.pdf)]
@@ -35,6 +35,7 @@ redirect_from:
         </div>
       </details>
     - Presented at: STEG workshop, EAYE Annual conference, RGS 18th Doctoral Conference
+    - Awarded STEG Ph.D. Research Grant (£12,000)
 
 
 ## Work in Progress
