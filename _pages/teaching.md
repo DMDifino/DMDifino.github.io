@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 
-**Teaching Experience**
+## Teaching Experience
 
   - 2025/2026: Master’s Pre-course in Mathematics \\
   [Instructor/Designer] [Goethe University Frankfurt]
