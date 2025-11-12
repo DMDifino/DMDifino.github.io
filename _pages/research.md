@@ -8,7 +8,7 @@ redirect_from:
 
 ## Working Papers
 
-- **Intermediates-specific Technological Progress, Structural Change, and Growth** \\ 
+- **Intermediates-specific Technological Progress, Structural Change, and Growth** \\
   [Job Market Paper]
   [[Working paper](http://dmdifino.github.io/files/JMP_latest.pdf)]
   [[slides](http://dmdifino.github.io/files/JMP_latest_slides.pdf)]
