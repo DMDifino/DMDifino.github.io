@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website!
+**Welcome to my personal website!**
 
 - I am a Ph.D. candidate in Economics at [GSEFM](https://www.gsefm.eu/about-us.html) and [Goethe University Frankfurt](https://www.goethe-university-frankfurt.de/en).
 
