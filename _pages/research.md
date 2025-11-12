@@ -6,6 +6,8 @@ redirect_from:
   - /research.html
 ---
 
+# Research
+  
 ## Working Papers
 
 - **Intermediates-specific Technological Progress, Structural Change, and Growth** \\

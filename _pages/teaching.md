@@ -6,8 +6,9 @@ redirect_from:
   - /teaching.html
 ---
 
+# Teaching
 
-## Teaching Experience
+## Goethe University
 
   - 2025/2026: Master’s Pre-course in Mathematics \\
   [Instructor/Designer] [Goethe University Frankfurt]
@@ -18,8 +19,11 @@ redirect_from:
   - 2023/24: Macroeconomics with Micro Data (Master's level) \\
   [Teaching Assistant] [Goethe University Frankfurt]
 
+  - 2020/21: Macroeconomics I (BMAK)  \\
+  [Teaching Assistant] [Goethe University Frankfurt]
+
+## GSEFM
+
   - 2021 (Sept.): Ph.D. Pre-course in Real Analysis and Multivariable Calculus  \\
   [Instructor/Designer] [GSEFM]
 
-  - 2020/21: Macroeconomics I (BMAK)  \\
-  [Teaching Assistant] [Goethe University Frankfurt]
