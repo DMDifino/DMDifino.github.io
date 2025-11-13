@@ -1,13 +1,12 @@
 ---
 permalink: /research/
 author_profile: true
+title: "Research"
 redirect_from: 
   - /md/
   - /research.html
 ---
 
-# Research
-  
 ## Working Papers
 
 - **Intermediates-specific Technological Progress, Structural Change, and Growth** \\
