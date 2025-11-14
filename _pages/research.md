@@ -23,9 +23,9 @@ redirect_from:
       </details>
 
 - **Demographic Transition and Engel's Law across the Development Spectrum** \\
+  [Status: Revise & Resubmit, Economica]
   [[working paper](http://dmdifino.github.io/files/demographic_structural_paper.pdf)]
   [[slides](http://dmdifino.github.io/files/demographic_structural_slides.pdf)]
-  [status: under review]
     - <details>
         <summary>Abstract</summary>
         <div style="text-align: justify">
