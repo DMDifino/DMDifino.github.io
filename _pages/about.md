@@ -14,7 +14,7 @@ redirect_from:
 
 - I am especially interested in studing the role of *demand-side mechanisms* in explaining cross-country differences by combining structural empirical analysis with quantitative macroeconomic modeling.
 
-<span style="color:red">**[Update]**</span>: [Demographic Transition and Engel's Law across the Development Spectrum](http://dmdifino.github.io/files/demographic_structural_paper.pdf) (STEG Ph.D. research grant) is R&R at Economica
+<span style="color:red">**[Update]**</span>: [Demographic Transition and Engel's Law across the Development Spectrum](http://dmdifino.github.io/files/demographic_structural_paper.pdf) is R&R at Economica
 
 The following is my **Job Market Paper**:
 
